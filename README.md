@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/36313b5e-5035-4140-aba9-f40c62b69dfb)# 1부. 원래 일 잘하는 사람이 AI도 잘 쓰는 법
+# 1부. 원래 일 잘하는 사람이 AI도 잘 쓰는 법
 
 ## 1. 일 잘하는 사람은 질문하고 요청한다
 <details>
@@ -47,7 +47,7 @@
 </details>
 
 
-2. 정답을 묻지 말고 추천을 받자
+## 2. 정답을 묻지 말고 추천을 받자
 
 <details>
     <summary>두 단어로 풍경을 묘사하세요</summary>
